@@ -1,1 +1,1 @@
-Small Html/CSS project to provide information about me.
+Small HTML/CSS project to provide information about me.
